@@ -6,6 +6,10 @@
   "dependencies": {
     "angular": "^1.5.0",
     "angular-ui-router": "^1.0.0-beta.1",
+    "baasic-angular-hal": "github:Baasic/angular-hal",
+    "baasic-sdk-angularjs": "^2.0.0",
+    "baasic-sdk-javascript": "^2.0.1",
+    "halParser": "github:Baasic/angular-hal",
     "normalize.css": "^3.0.3"
   },
   "devDependencies": {
@@ -40,7 +44,7 @@
     "mocha": "^2.3.0",
     "ng-annotate-loader": "0.0.10",
     "node-libs-browser": "^0.5.0",
-    "node-sass": "^3.13.0",
+    "node-sass": "^4.7.2",
     "raw-loader": "^0.5.1",
     "run-sequence": "^1.1.0",
     "sass-loader": "^4.0.2",
